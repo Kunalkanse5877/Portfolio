@@ -30,7 +30,7 @@ export const metadata: Metadata = {
     siteName: "Kunal Kanse Portfolio",
     images: [
       {
-        url: "public/Cover Image.jpg", // 🔹 Your photo (place in /public/ folder)
+        url: "/cover-image.jpg", // 🔹 Your photo (place in /public/ folder)
         width: 1200,
         height: 630,
         alt: "Kunal Kanse",
@@ -44,7 +44,7 @@ export const metadata: Metadata = {
     title: "Kunal Kanse Portfolio",
     description:
       "Multidisciplinary designer specializing in UI/UX design, graphic design, and video editing.",
-    images: ["https://yourdomain.com/kunal.jpg"], // 🔹 Same image for Twitter
+     images: ["/cover-image.jpg"], // 🔹 Same image for Twitter
   },
 }
 
