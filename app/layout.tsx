@@ -26,7 +26,7 @@ export const metadata: Metadata = {
     title: "Kunal Kanse Portfolio",
     description:
       "Multidisciplinary designer specializing in UI/UX design, graphic design, and video editing.",
-    url: "https://yourdomain.com",   // 🔹 Replace with your website URL
+    url: "https://kunalkanse.vercel.app/",   // 🔹 Replace with your website URL
     siteName: "Kunal Kanse Portfolio",
     images: [
       {
