@@ -18,10 +18,10 @@ const inter = Inter({
 })
 
 export const metadata: Metadata = {
-  title: "Creative Designer Portfolio | UI/UX • Graphics • Video",
+  title: "Kunal Kanse Portfolio | UI/UX • Graphics • Video",
   description:
     "Multidisciplinary designer specializing in UI/UX design, graphic design, and video editing. I design visuals, interfaces, and stories.",
-  generator: "v0.app",
+  generator: "Kunal kanse",
 }
 
 export default function RootLayout({
